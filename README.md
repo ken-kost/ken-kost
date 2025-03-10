@@ -1,3 +1,9 @@
+**Disclaimer:** The views and opinions expressed in
+this profile are those of the speaker and do
+necessarily reflect the views or positions of
+Ash entities they represent.
+
+
 ## 👩‍💻 Elixir Software Engineer
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ken-kost/)
 [![Webpage](https://img.shields.io/badge/webpage-8A2BE2?style=for-the-badge)](https://kenkost.me/)
