@@ -29,6 +29,3 @@ Ash entities they represent.
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 📊 GitHub Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=ken-kost&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ken-kost&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
