@@ -11,9 +11,7 @@ and from the **ash** the **phoenix** rises, ever new,
 to bind the volatile and fix the true.
 
 
-## 👩‍💻 Elixir Software Engineer
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ken-kost/)
-[![Webpage](https://img.shields.io/badge/webpage-8A2BE2?style=for-the-badge)](https://kenkost.me/)
+## 👩‍💻 Elixir Software Engineer | [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ken-kost/)
 
 ## 💻 Tech Stack
 ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
