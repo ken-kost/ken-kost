@@ -1,7 +1,9 @@
-**Disclaimer:** The views and opinions expressed in
-this profile are those of the speaker and do
-necessarily reflect the views or positions of
-Ash entities they represent.
+Yet deeper still, beyond the stone’s cold art,
+awaits the true reward that stirs the seeker’s heart:
+the **elixir**, born of patient, measured art—
+where iteration’s quiet rhythm shapes the heart,
+and from the **ash** the **phoenix** rises, ever new,
+to bind the volatile and fix the true.
 
 
 ## 👩‍💻 Elixir Software Engineer
